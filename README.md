@@ -31,6 +31,16 @@ MusiCLI will display a list of albums and songs in your music collection. Use th
 
 To change the music folder path, simply edit the `config.txt` file in the project directory and replace the existing path with the new one. The next time you run MusiCLI, it will use the updated path.
 
+## Folder Structure
+
+MusiCLI uses the Folder names as the Album names and the .flac or .mp3 files as the Songs. It is structured like:
+
+├── Album Name
+|   ├── Song1.flac
+|   ├── Song2.mp3
+|   ├── Song3.flac
+
+
 ## Dependencies
 
 MusiCLI uses the following Python module:
