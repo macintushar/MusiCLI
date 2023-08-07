@@ -44,14 +44,3 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-
-
-
-
-
-
-
-
-# MusiCLI
-# MusiCLI
