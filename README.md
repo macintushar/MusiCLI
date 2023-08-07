@@ -34,12 +34,12 @@ To change the music folder path, simply edit the `config.txt` file in the projec
 ## Folder Structure
 
 MusiCLI uses the Folder names as the Album names and the .flac or .mp3 files as the Songs. It is structured like:
-
+```
 ├── Album Name
 |   ├── Song1.flac
 |   ├── Song2.mp3
 |   ├── Song3.flac
-
+```
 
 ## Dependencies
 
