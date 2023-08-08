@@ -10,10 +10,10 @@ MusiCLI is a simple and lightweight command-line music player written in Python 
 
 ## Installation
 
-1. Clone this repository to your local machine: git clone https://github.com/macintushar/MusiCLI.git 
-2. Navigate to the project directory: cd MusiCLI
-3. Install the `pygame` library: pip install pygame
-4. Run the `MusiCLI.py` script: python3 MusiCLI.py
+1. Clone this repository to your local machine: `git clone https://github.com/macintushar/MusiCLI.git`
+2. Navigate to the project directory: `cd MusiCLI`
+3. Install the `pygame` library: `pip install pygame`
+4. Run the `MusiCLI.py` script: `python3 MusiCLI.py`
 
 
 ## Initial Setup
@@ -22,7 +22,7 @@ On the first run, MusiCLI will prompt you to provide the path to your music fold
 
 ## Usage
 
-After the initial setup, MusiCLI will automatically use the configured music folder. To run the music player, execute the following command: python3 MusiCLI.py
+After the initial setup, MusiCLI will automatically use the configured music folder. To run the music player, execute the following command: `python3 MusiCLI.py`
 
 
 MusiCLI will display a list of albums and songs in your music collection. Use the provided commands to navigate and play your music.
