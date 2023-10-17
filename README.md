@@ -18,7 +18,8 @@ MusiCLI is a simple and lightweight command-line music player written in Python 
 
 ## Initial Setup
 
-On the first run, MusiCLI will prompt you to provide the path to your music folder. This will be used as the source of your music collection. The path will be saved in the `config.txt` file for future reference.
+On the first run, MusiCLI will prompt you to provide the path to your music folder. This will be used as the source of your music collection. The path will be saved in the `musicli-config.txt` file for future reference.
+It will also create a cache of all the paths for all files in the `musicli-cache.csv` file for faster loading.
 
 ## Usage
 
@@ -29,7 +30,7 @@ MusiCLI will display a list of albums and songs in your music collection. Use th
 
 ## Changing the Music Folder Path
 
-To change the music folder path, simply edit the `config.txt` file in the project directory and replace the existing path with the new one. The next time you run MusiCLI, it will use the updated path.
+To change the music folder path, simply edit the `musicli-config.txt` file in the project directory and replace the existing path with the new one. The next time you run MusiCLI, use option 4 in the app to `Reload the Cache` to use the updated files.
 
 ## Folder Structure
 
